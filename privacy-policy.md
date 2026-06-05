@@ -15,7 +15,8 @@ Users may opt-out of personalized advertising by visiting Google's Ads Settings.
 
 Link to the privacy policies of third-party service providers used by the app:
 
-Google Play Services
+
+[Google Play Services](https://policies.google.com/privacy)
 
 Google AdMob
 
